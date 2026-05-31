@@ -89,7 +89,7 @@ ScoreCut Studio does not knowingly collect personal information from children un
 
 ## Account deletion and data requests
 
-You can delete your account from inside the app. Account deletion removes your Firebase account data used by ScoreCut Studio, including subscription-entitlement documents, desktop-pairing records, and desktop-trial records. Deleting your ScoreCut account does not automatically cancel an App Store subscription; you must cancel subscriptions through Apple.
+You can delete your account from inside the app. Account deletion removes your Firebase account data used by ScoreCut Studio, including subscription-entitlement documents, desktop-pairing records, and desktop-trial records. To prevent repeated free-trial abuse, ScoreCut may retain a server-only hashed desktop-trial claim that is not readable by app clients and is used only to decide future trial eligibility. Deleting your ScoreCut account does not automatically cancel an App Store subscription; you must cancel subscriptions through Apple.
 
 Shared configurations that you contributed to the cloud corpus may not be automatically removed by in-app account deletion because they may already have been used, endorsed, reported, or forked by other users. To request removal of shared configurations you submitted, email **scorecutstudio@gmail.com**. We may delete, tombstone, or anonymize shared-configuration records as needed for moderation, abuse prevention, legal compliance, and operational integrity.
 
